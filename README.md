@@ -19,18 +19,18 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 ```
-#Swapping of two variables
+#Program to swap two values.
 #Developed by: Ananda Rakshan K V
-#Register number: 23001531
-x=int(input())
-y=int(input())
-temp=x
-x=y
-y=temp
-print("The swapped values are:")
+#RegisterNumber:23001531
+a=float(input())
+b=float(input())
+temp=a
+a=b
+b=temp
+print("Swapped values are:",a,b)
 ```
 ## OUTPUT:
-
+![output](python_1.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
